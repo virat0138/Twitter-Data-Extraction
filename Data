@@ -1,1 +1,7 @@
-Extracting data and Text Mining on Twitter data
+Extracting data and Text Mining on Twitter data.....
+
+We all have the access to social media and since everything is now done online, the amount of data posted on social media sites has increased.
+And we have different tools available to analyze the data and we can examine various socioeconomic factors using this data. So, in order to execute analysis, we must first collect/extract data, which is the first step in applying analysis techniques.
+We are extracting data from Twitter using the Twitter APIs and Tweepy library.
+To get access to Twitter APIs you need to have a Twitter developer account(Visit the Twitter developer site at dev.twitter.com) because the developer account can only give you the required credentials required to call the Twitter API.
+Credentials are: Api_key, Api_secret, Access_token, Access_token_secret;
